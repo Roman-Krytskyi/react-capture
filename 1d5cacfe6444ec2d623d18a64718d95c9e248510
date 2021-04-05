@@ -1,0 +1,17 @@
+[33mcommit 1d5cacfe6444ec2d623d18a64718d95c9e248510[m[33m ([m[1;36mHEAD -> [m[1;32mbeta[m[33m, [m[1;31morigin/beta[m[33m)[m
+Author: Roman-Krytskyi <hollowdc95@gmail.com>
+Date:   Mon Apr 5 13:03:48 2021 +0300
+
+    2. About first section
+
+[33mcommit c515aa238e38fa84d9203d76ca88ed2737f944fe[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Roman-Krytskyi <hollowdc95@gmail.com>
+Date:   Mon Apr 5 12:22:07 2021 +0300
+
+    1. Initial setup
+
+[33mcommit a7b85e01fca773d9882ab111fbff5b01d4a3dcec[m
+Author: Roman-Krytskyi <hollowdc95@gmail.com>
+Date:   Mon Apr 5 12:13:06 2021 +0300
+
+    Initialize project using Create React App
