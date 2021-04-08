@@ -20,8 +20,8 @@ export const Img = styled.div`
   flex: 1;
   overflow: hidden;
   img {
-    width: 90%;
-    height: 70vh;
+    width: 100%;
+    height: 90vh;
     object-fit: cover;
   }
 `;
