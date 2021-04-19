@@ -27,6 +27,7 @@ const MovieDetail = () => {
           exit="exit"
           initial="hidden"
           animate="show"
+          setMovies={setMovies}
         >
           <HeadLine>
             <h2>{movie.title}</h2>
@@ -77,6 +78,10 @@ const Awards = styled.div`
   margin: 5rem 10rem;
   align-items: center;
   justify-content: space-around;
+  @media (max-width: 1200px) {
+    display: block;
+    margin: 2rem;
+  }
 `;
 
 const AwardStyle = styled.div`
